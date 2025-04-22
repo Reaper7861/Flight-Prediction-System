@@ -67,6 +67,16 @@ You need 2 terminals open. One will run the frontend and the other will run the 
 
 `npm run dev` - copy this command to run the server
 
+5. 
+
+Click on Local:   http://localhost:8080/ in the terminal
+
+(Running in the frontend terminal)
+
+6. 
+
+A web page will open up in your browser where you can input details of your flight and get a predicted price.
+
 ## README.md
 
 Current file containing information about the contents and functions of this repository. 
