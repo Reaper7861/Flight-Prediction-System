@@ -1,5 +1,7 @@
 # Files Included in the Repository: 
 - Flight Prediction.ipynb
+- Data Science 2 Final Report.pdf
+- Final Poster.pptx
 - flight_data_preprocessed.csv.zip
 - flight_data.zip
 - sky-prediction-main
@@ -15,6 +17,14 @@ The first cell contains all the libraries that are used within the notebook.
 For ease of use, it is better to start the program from the **Start** heading as it will take in the preprocessed data which is already included in this repository and the code following it will be the bulk of the project. Everything before the **Start** heading deals with preprocessing the dataset. 
 
 *Note:* The last cell downloads the best model via the pickle library and has not been included in this repository as it is too big. The pickle file including the model must be downloaded manually to your computer by running the cell. 
+
+## Data Science 2 Final Report.pdf
+
+This is the pdf file containing the final comprehensive report of our project.
+
+## Final Poster.pptx
+
+This is the PowerPoint containing the poster of our project. 
 
 ## flight_data_preprocessed.csv
 
