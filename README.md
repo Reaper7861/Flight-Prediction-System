@@ -4,7 +4,7 @@
 - Final Poster.pptx
 - flight_data_preprocessed.csv.zip
 - flight_data.zip
-- sky-prediction-main
+- sky-price-prediction-main
 - README.md
 
 ## Flight Prediction.ipynb: 
@@ -34,7 +34,7 @@ This is the zip file containing the cleaned data after preprocessing and data cl
 
 This is the full dataset from which we based our project on. It has been included as a reference to the repository. Zipped as a file. 
 
-## sky-prediction-main
+## sky-price-prediction-main
 
 This includes all the relevant files and code for the web application we have created for our project. 
 
