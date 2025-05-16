@@ -1,6 +1,6 @@
 # Files Included in the Repository: 
 - Flight Prediction.ipynb
-- Data Science 2 Final Report.pdf
+- Flight Prediction System Final Report.pdf
 - Final Poster.pptx
 - flight_data_preprocessed.csv.zip
 - flight_data.zip
